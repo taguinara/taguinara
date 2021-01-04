@@ -7,9 +7,8 @@ Meu primeiro blog foi para publicação de poesias, a leitura é algo que sempre
 - 👩🏽‍💻 Desde o inicío de 2020 tenho buscado aprimorar meus conhecimentos em HTML, CSS, Javascript. 
 - 💡 Sou estudante de Ciência de Dados e AI.
 
-<p>&nbsp;&nbsp;</p>
-
 ### 💻 Redes Sociais
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-almeida-b139461b1/)](https://www.linkedin.com/in/tainara-almeida-b139461b1/)
 [<img src="https://img.shields.io/github/followers/taguinara?label=follow&style=social" height="22" title="Follow me"/>](https://github.com/taguinara) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tatimes.almeida@gmail.com)
