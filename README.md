@@ -1,6 +1,6 @@
 ### 👩🏽‍💻 Sobre mim
 
-Meu primeiro blog foi para publicação de poesias, a leitura é algo que sempre me acompanhou e me inspirou a ser bibliotecária. Após isso tive um segundo que contava sobre História do livro, relacionado a minha área de formação e o terceiro foi sobre a minha transição capilar, para incentivar e ajudar outras garotas que estavam passando por esse momento. No momento estou me dedicando a obter mais conhecimento na área de TI. ❤
+Meu primeiro blog foi para publicação de poesias, a leitura é algo que sempre me acompanhou e me inspirou a ser bibliotecária. Após isso tive um segundo que contava sobre História do livro, relacionado a minha área de formação e o terceiro foi sobre a minha transição capilar, para incentivar e ajudar outras garotas que estavam passando por esse momento. No momento estou me dedicando a obter mais conhecimento na área de TI. 
 
 - 🎓 Formada em Biblioteconomia, pela Universidade de Brasília - UnB. 
 - 📚 Estou finalizando minha Pós-graduação em Gestão da Tecnologia da Informação. 
