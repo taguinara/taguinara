@@ -1,4 +1,4 @@
-### 👩🏽‍💻 Sobre mim
+Olá, sou a Tainara!
 
 Meu primeiro blog foi para publicação de poesias, a leitura é algo que sempre me acompanhou e me inspirou a ser bibliotecária. Após isso tive um segundo que contava sobre História do livro, relacionado a minha área de formação e o terceiro foi sobre a minha transição capilar, para incentivar e ajudar outras garotas que estavam passando por essa transformação. No momento estou me dedicando a obter mais conhecimento na área de TI. 
 
