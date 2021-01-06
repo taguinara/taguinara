@@ -1,6 +1,6 @@
 Hi, nice to meet you!✨
 
-- 🎓 My name is Tainara, I'm librarian. Graduate in Librianship, at the University of Brasilia - UnB. 
+- 🎓 My name is Tainara, I'm librarian. Graduate in Librarianship, at the University of Brasilia - UnB. 
 
 - 📚 I am finishing my Postgraduate education in Information Technology Management.
 
