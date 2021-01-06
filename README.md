@@ -8,6 +8,6 @@ Hi, nice to meet you!✨
 
 - 💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, Javascript. And I'm also a student of Data Science and Artificial Intelligence.
 
-### 💻 Social networks
+### 💻 Social network
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-almeida-b139461b1/)](https://www.linkedin.com/in/tainara-almeida-b139461b1/)
