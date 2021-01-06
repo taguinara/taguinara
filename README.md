@@ -1,11 +1,12 @@
-Olá, sou a Tainara!
+Hi, nice to meet you!✨
 
-Meu primeiro blog foi para publicação de poesias, a leitura é algo que sempre me acompanhou e me inspirou a ser bibliotecária. Após isso tive um segundo que contava sobre História do livro, relacionado a minha área de formação e o terceiro foi sobre a minha transição capilar, para incentivar e ajudar outras garotas que estavam passando por essa transformação. No momento estou me dedicando a obter mais conhecimento na área de TI. 
+- 🎓 My name is Tainara, I'm librarian. Graduate in Librianship, at the University of Brasilia - UnB. 
 
-- 🎓 Formada em Biblioteconomia, pela Universidade de Brasília - UnB. 
-- 📚 Estou finalizando minha Pós-graduação em Gestão da Tecnologia da Informação. 
-- 👩🏽‍💻 Desde o inicío de 2020 tenho buscado aprimorar meus conhecimentos em HTML, CSS, Javascript. 
-- 💡 Sou estudante de Ciência de Dados e AI.
+- 📚 I am finishing my Postgraduate education in Information Technology Management.
+
+- 👩🏽‍💻 I currently work as a librarian at Aneel.
+
+- 💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, Javascript. And I'm also a student of Data Science and Artificial Intelligence.
 
 ### 💻 Redes Sociais
 
