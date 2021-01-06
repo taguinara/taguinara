@@ -6,7 +6,7 @@ Hi, nice to meet you!✨
 
 - 👩🏽‍💻 I currently work as a librarian at Aneel.
 
-- 💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, Javascript. And I'm also a student of Data Science and Artificial Intelligence.
+- 💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, JavaScript. And I'm also a student of Data Science and Artificial Intelligence.
 
 ### 💻 Social network
 
