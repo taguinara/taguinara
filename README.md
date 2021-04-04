@@ -1,12 +1,12 @@
 Hi, nice to meet you!✨
 
-- 🎓 My name is Tainara, I'm librarian. Graduate in Librarianship, at the University of Brasilia - UnB. 
+🎓 My name is Tainara, I'm librarian. Graduate in Librarianship, at the University of Brasilia - UnB. 
 
-- 📚 I am finishing my Postgraduate education in Information Technology Management.
+📚 I am finishing my Postgraduate education in Information Technology Management.
 
-- 👩🏽‍💻 I currently work as a librarian at Aneel.
+👩🏽‍💻 I currently work as a librarian at Aneel.
 
-- 💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, JavaScript. And I'm also a student of Data Science and Artificial Intelligence.
+💡 Since the beginning of 2020 I've been studying to improve my knowledge in HTML, CSS, JavaScript. And I'm also a student of Data Science and Artificial Intelligence.
 
 ### 💻 Social network
 
