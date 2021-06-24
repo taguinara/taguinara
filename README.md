@@ -1,6 +1,6 @@
-<div>
-<img height="400em" text-align="center" src="https://github.com/taguinara/taguinara/blob/main/img/capa_git.png"/>
-</div>
+<p align="center">
+<img height="400em" src="https://github.com/taguinara/taguinara/blob/main/img/capa_git.png"/>
+</p>
 
 ## Olá, eu sou a Tainara Almeida✨
 <div>
