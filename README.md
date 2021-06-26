@@ -6,7 +6,8 @@
 <div>
   <p> 🔹 Tenho graduação em Biblioteconomia pela Universidade de Brasília (UnB), pós em Gestão da TI;</p>
   <p> 🔹 Trabalho como revisora legislativa, estou em transição de carreira para a área de tecnologia;</p>
-  <p> 🔹 Atualmente estudante de Desenvolvimento Web, Data Science e AI.</p>
+  <p> 🔹 Atualmente estudante de Desenvolvimento Web, Data Science, AI; e</p>
+  <p> 🔹 Membro do Data Girls Neuron. </p>
   <a href="https://github.com/taguinara">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taguinara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taguinara&layout=compact&langs_count=16&theme=dracula"/>
