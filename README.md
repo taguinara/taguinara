@@ -1,11 +1,6 @@
-<p align="center">
-<img height="400em" src="https://github.com/taguinara/taguinara/blob/main/img/capa_git.png"/>
-</p>
-
 ## Olá, eu sou a Tainara Almeida✨
 <div>
-  <p> 🔹 Tenho graduação em Biblioteconomia pela Universidade de Brasília (UnB), pós em Gestão da TI;</p>
-  <p> 🔹 Trabalho como revisora legislativa, estou em transição de carreira para a área de tecnologia;</p>
+  <p> 🔹 Bibliotecária formada pela Universidade de Brasília (UnB)</p>
   <p> 🔹 Atualmente estudante de Desenvolvimento Web, Data Science, AI; e</p>
   <p> 🔹 Membro do Data Girls Neuron. </p>
   <a href="https://github.com/taguinara">
