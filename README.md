@@ -1,6 +1,6 @@
 ## Olá, eu sou a Tainara Almeida✨
 <div>
-  <p> 🔹 Bibliotecária formada pela Universidade de Brasília (UnB)</p>
+  <p> 🔹 Bibliotecária formada pela Universidade de Brasília (UnB);</p>
   <p> 🔹 Atualmente estudante de Desenvolvimento Web, Data Science, AI; e</p>
   <p> 🔹 Membro do Data Girls Neuron. </p>
   <a href="https://github.com/taguinara">
