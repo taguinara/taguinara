@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/taguinara/taguinara/blob/main/img/capa_git.png" width="650em">
+</p>
+
 ## Olá, eu sou a Tainara Almeida✨
 <div>
   <p> 🔹 Bibliotecária formada pela Universidade de Brasília (UnB);</p>
