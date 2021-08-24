@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/taguinara/taguinara/blob/main/img/capa_git.png" width="650em">
+  <img src="https://media.giphy.com/media/dvrpgvviRQlTP6sJzP/giphy.gif?cid=ecf05e47dgvjzz81n69as1uvavnxcy1f8lfwtinzod1bi1cc&rid=giphy.gif&ct=g" width="320" height="320" />
 </p>
 
 ## Olá, eu sou a Tainara Almeida✨
