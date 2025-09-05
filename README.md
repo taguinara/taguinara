@@ -6,7 +6,7 @@
 <div>
   <p> 🔹 Bibliotecária formada pela Universidade de Brasília (UnB);</p>
   <p> 🔹 Especialização em Gestão da Tecnologia da Informação;</p>
-  <p> 🔹 Especialização em Ciência de Dados pelo Descomplica Faculdade Descomplica;</p>
+  <p> 🔹 Especialização em Ciência de Dados pelo Descomplica;</p>
   <p> 🔹 Atualmente estudante de ensino técnico de Ciência de Dados pelo Senac DF e inteligência artificial.</p>
   
   <a href="https://github.com/taguinara">
