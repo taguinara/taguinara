@@ -8,10 +8,7 @@
   <p> 🔹 Especialização em Gestão da Tecnologia da Informação;</p>
   <p> 🔹 Especialização em Ciência de Dados pelo Descomplica;</p>
   <p> 🔹 Atualmente estudante de ensino técnico de Ciência de Dados pelo Senac DF e inteligência artificial.</p>
-  
-  <a href="https://github.com/taguinara">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taguinara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taguinara&layout=compact&langs_count=7&theme=tokyonight"/>
+   <a href="https://github.com/taguinara">
 </div>
 <div>
   <a href = "mailto:tatimes.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
