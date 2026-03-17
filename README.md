@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l4hLAyX172wmHouGI/giphy.gif" width="400" height="300" />
+  <img src="https://media.giphy.com/media/l4hLAyX172wmHouGI/giphy.gif" width="700" height="500" />
 </p>
 
 ## Olá, eu sou a Tainara Almeida✨
