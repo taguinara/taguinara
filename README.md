@@ -79,9 +79,8 @@ tainara = {
 
 ### 📊 GitHub Stats
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=taguinara&show_icons=true&hide_border=true&bg_color=fdf6f0&title_color=c97bac&icon_color=b5d5c5&text_color=7a5c45&ring_color=e8a0bf" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taguinara&layout=compact&hide_border=true&bg_color=fdf6f0&title_color=c97bac&text_color=7a5c45&langs_count=8" />
-<img height="140em" img src="https://streak-stats.demolab.com?user=taguinara&hide_border=true&background=fdf6f0&ring=e8a0bf&fire=c97bac&currStreakLabel=7a5c45&sideLabels=7a5c45&dates=b5d5c5&currStreakNum=3d2c1e&sideNums=3d2c1e" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taguinara&show_icons=true&hide_border=true&bg_color=fdf6f0&title_color=c97bac&icon_color=b5d5c5&text_color=7a5c45&ring_color=e8a0bf" />
+<img height="180em" img src="https://streak-stats.demolab.com?user=taguinara&hide_border=true&background=fdf6f0&ring=e8a0bf&fire=c97bac&currStreakLabel=7a5c45&sideLabels=7a5c45&dates=b5d5c5&currStreakNum=3d2c1e&sideNums=3d2c1e" /> 
 
 </div>
 
