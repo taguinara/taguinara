@@ -22,7 +22,7 @@ tainara = {
     "nome"        : "Tainara Almeida 🐇",
     "cidade"      : "Brasília, DF 🇧🇷",
     "foco"        : ["Ciência de Dados", "Análise de Dados", "Biblioteconomia"],
-    "stack"       : ["Python", "SQL", "Power BI", "R", "SQL", "Looker", "Google Cloud"],
+    "stack"       : ["Python", "SQL", "Power BI", "R", "Looker", "Google Cloud"],
     "diferencial" : "Biblioteconomia + Dados = decisões mais inteligentes 📚🔍",
     "disponível"  : "projetos de TI e colaborações 🌿"
 }
@@ -96,8 +96,6 @@ tainara = {
 <br/>
 
 *✦ Aberta a projetos de dados, dashboards e consultoria em TI ✦*
-
-🌸 &nbsp; 🌷 &nbsp; 🌼 &nbsp; 🌺 &nbsp; 🌻 &nbsp; 💐 &nbsp; 🌸 &nbsp; 🌷 &nbsp; 🌼 &nbsp; 🌺 &nbsp; 🌻 &nbsp; 💐 &nbsp; 🌸 &nbsp; 🌷 &nbsp; 🌼
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=taguinara&color=e8a0bf&style=flat-square&label=visitas+ao+perfil)
 
