@@ -22,7 +22,7 @@ Olá! = {
     "foco"        : ["Ciência de Dados", "Biblioteconomia"],
     "stack"       : ["Python", "SQL", "Power BI", "R", "Looker", "Google Cloud"],
     "diferencial" : "Biblioteconomia + Dados = Decisões mais inteligentes 📚🔍",
-    "disponível"  : "criação de dashboards, projetos de TI e colaborações 🌿"
+    "disponível"  : "Criação de dashboards, projetos de TI e colaborações 🌿"
 }
 ```
 </div>
