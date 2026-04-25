@@ -17,6 +17,7 @@ localizacao : Brasília, DF - Brasil
 languages:
   - Python
   - SQL
+  - R
 
 data_visualization:
   - Power BI
@@ -27,7 +28,7 @@ cloud_tools:
   - Excel
   - Microsoft 365
 
-agile frameworks:
+agile_frameworks:
   - Scrum
   - Kanban
 
